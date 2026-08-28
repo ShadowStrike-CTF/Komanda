@@ -1,6 +1,6 @@
-# © 2026 Strategos. All rights reserved.
-# komanda — stub package. Redirects to komanda-kilo.
-# See: https://github.com/ShadowStrike-CTF/shadowstrike-suite
+# Komanda — Forensic case management.
+# © 2026 Strategos Pty Ltd. All rights reserved.
+# Aut Viam Inveniam Aut Faciam
 
 try:
     from komanda_kilo import *  # noqa: F401, F403
