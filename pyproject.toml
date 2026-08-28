@@ -23,9 +23,6 @@ classifiers = [
     "License :: Other/Proprietary License",
     "Operating System :: OS Independent",
 ]
-dependencies = [
-    "komanda-kilo",
-]
 
 [project.urls]
 "Source" = "https://github.com/ShadowStrike-CTF/komanda"
